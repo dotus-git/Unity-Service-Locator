@@ -1,4 +1,5 @@
-﻿using UnityEngine;
+﻿using Extensions;
+using UnityEngine;
 
 namespace UnityServiceLocator {
     [DisallowMultipleComponent]

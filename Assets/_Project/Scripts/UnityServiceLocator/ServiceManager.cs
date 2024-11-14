@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 
 namespace UnityServiceLocator {
-    public class ServiceManager {
+    internal class ServiceManager {
         readonly Dictionary<Type, object> services = new Dictionary<Type, object>();
         public IEnumerable<object> RegisteredServices => services.Values;
         
