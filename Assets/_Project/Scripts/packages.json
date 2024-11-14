@@ -1,0 +1,19 @@
+﻿{
+  "name": "com.gitamend.servicelocator",
+  "displayName": "Unity Service Locator",
+  "description": "Unity Service Locator, an organic library implementing the Service Locator pattern adapted to Unity.",
+  "version": "1.0.0",
+  "keywords": [
+    "extension",
+    "attribute",
+    "inspector",
+    "editor"
+  ],
+  "category": "editor extensions",
+  "dependencies": {},
+  "author": {
+    "name": "Git Amend",
+    "url": "https://github.com/adammyhre"
+  },
+  "documentationUrl": "https://github.com/adammyhre/Unity-Service-Locator/README.md"
+}
